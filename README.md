@@ -1,13 +1,17 @@
 # quicbot
  commands for quicbot:
  
-    (prefix = !)
+    prefix = ['!', '%', '&', '+', '?', '>', '1', '2', '8', '9'];
 
 come - comes to you (needs to be within render distance).
 
 follow - follows you (needs to be within render distance) - stop to stop following.
 
 coolfont/cooltext - makes the text you imputed output with another font.
+
+black - says how black you are.
+
+white - says how white you are.
 
 bp/bestping - check who has the best (lowest) ping in the server.
 
@@ -169,11 +173,7 @@ shutdown - shutsdown
 
 there are somemore i believe but it might be better you don't know lmao
 
-
-
-
-
-
+this is outdated ngl lol
 
 
 
