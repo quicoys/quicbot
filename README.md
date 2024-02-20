@@ -40,7 +40,6 @@ hello - (greeting word), (username) -- ONE OF THE FIRST COMMANDS
 
 gay (you, or specified user) - gayness in percentage (%)
 
-
 black (you, or specified user) - blackness in percentage (%)
 
 white (you, or specified user) - whiteness in percentage (%)
@@ -105,7 +104,7 @@ say - joke command - she is not a parrot.
 
 porn - joke command - dont use
 
-help - joke command - might make it real someday
+help (blank for random, spefify possible) - command "-" description  
 
 bot - joke command
 
