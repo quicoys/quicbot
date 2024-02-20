@@ -20,9 +20,9 @@ ping (you, or specified user) - tells you your, or specified user's ping.
 
 pos/coords[coord] - generates random, FAKE co-ordinates for the bot, basically a false position
 
-sell (someithng) - sells (input) for $100-4500
+sell (something) - sells (input) for $100-4500
 
-buy (someithng) - buys (input) for $100-4500
+buy (something) - buys (input) for $100-4500
 
 asscode - replies with "username, you can put your tiny fingers up your giant ass." this was a request on my discord server
 
