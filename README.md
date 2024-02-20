@@ -306,6 +306,8 @@ specifications[spec] - replies with computer specifications
 
 temp - cpu's temprature
 
+git - quicbot github
+
 version[[ve]/[v.]/[dev]] - replies with current quicbot version
 
 changelog - replies with changelog
