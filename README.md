@@ -4,314 +4,166 @@ prefix = '!', '%', '&', '+', '?', '>', '1', '2', '8', '9', ',', '.', '-'
 ----------------------------------------------------------------------------
 commands
 ----------------------------------------------------------------------------
-come - comes to you
-
-follow - follows you (stop to stop)
-
-stop - stops bot from following you
-
-cool- font/text - transforms text to another style [𝓼𝓸𝓶𝓮𝓽𝓱𝓲𝓷𝓰]
-
-worstping - replies with the user that has the worst, highest, ping
-
-bestping - replies with the user that has the best, lowest, ping
-
-ping (you, or specified user) - tells you your, or specified user's ping.
-
-pos/coords[coord] - generates random, FAKE co-ordinates for the bot, basically a false position
-
-sell (something) - sells (input) for $100-4500
-
-buy (something) - buys (input) for $100-4500
-
-asscode - replies with "username, you can put your tiny fingers up your giant ass." this was a request on my discord server
-
-jew (you, or specified user) - jew check. (I AM NO JEW-HATER I RESPECT EVERYONE EQUALLY (=) )
-
-hacks - sends link and name of some hackclients
-
-dox (you, or specified user) - takes specified user and hashes their name, to then generate a fake-ip string. basically this always gives the specified user the same FAKE IP.
-
-no - replies with no
-
-yes - replies with yes
-
-hello - (greeting word), (username) -- ONE OF THE FIRST COMMANDS
-
-gay (you, or specified user) - gayness in percentage (%)
-
-black (you, or specified user) - blackness in percentage (%)
-
-white (you, or specified user) - whiteness in percentage (%)
-
-fem-boy/girl (you, or specified user) - femboyness in percentage (%)
-
-trans (you, or specified user) - transness in percentage (%)
-
-fag (you, or specified user) - faggotness in percentage (%)
-
-cool (you, or specified user) - coolness in percentage (%)
-
-silly (you, or specified user) - sillieness in percentage (%)
-
-fat (you, or specified user) - fatness in percentage (%)
-
-sillify[silli] (specified username) - make someone silly
-
-kit/getkit (input) - get a kit with the name of (input)
-
-createkit (input) - create a kit with the name of (input) -- i just came up with the idea that you could sync getkit with createkit lmao
-
-roast/insult (you, or specified user) - roasts you
-
-----------------------------------------------------------
-btw the longer down the better/cooler commands there are!
-----------------------------------------------------------
-
-y/n - replies with yes or no
-
-ask(god)/8ball - ask god a question.
-
-king[kin] - joke commands
-
-leak (input) - leak some co-ordinates; example: (prefix)leak 512421 88252 the white house!!
-
-rules - rules on anarchy servers you MUST FOLLOW!!
-
-report[rep] (username[,] reason) - reports user to quicbot moderation center, and the server owners.
-
-
-(dad)joke - get a funnie joke
-ban (specified user) - bans a user 100% real working 1984!
-
-kick (specified user) - kicks a user 100% real working 1986!
-
-online (server (if no there's input takes current server)) - replies with [online/max]
-
-urban (input) - check a definition off the urbandic, can be serious, are a lot of funny things too
-
-kill - *dies* joke command
-
-tps - we dont need to talk about that..
-
-rr/roulette[rou] - play a game where you've got a 12,5% chance at loosing
-
-lottery[lot] - play a lottery game, very rare to working
-
-dice - roll a sphere dice (dice)
-
-say - joke command - she is not a parrot.
-
-porn - joke command - dont use
-
-help (blank for random, spefify possible) - command "-" description  
-
-bot - joke command
-
-ol - joke command
-
-squidooby - joke command, added from request
-
-minion - joke command
-
-quicbot [bot's username] - joke command
-
-home (optional input) - teleport home
-
-sethome (optional input) - set a home, real 100%
-
-gamemode/gm (input) - change gamemode to specified name
-
-summon (input) - summon entity
-
-lobby - teleport to lobby 100% REAL
-
-op/operator[op] (you, or specified user) - makes you, or specified user a server operator. TRY IT IF YOU DONT BELIEVE
-
-give (who, what) - give specified user specified item
-
-tpa (username) - request a teleport request to specified user
-
-tpy (optional user) - accepts your tpa request
-
-tpn - denies a teleport request
-
-tph (specified user) - sends a request that you want to teleport the specified user to you
-
-infect (user) - infect someone with your autism
-
-locate/find (user) - locate a user quic quiccom 100% real working 2024!
-
-dupe (input) - duplicates specified item
-
-health/hunger - replies with the bots health and hunger
-
-mute (user) - mutes a user 100% working
-
-curse (user) - pranks user to using /kill, kinda meh
-
-teleport/tp (coords or player) - teleports you to specified coords/player
-
-back - went back
-
-execute/execution[execu] - create a poll if you should kill someone. voite with /kill y/n!
-
-suicide (you, or user) - kill someone
-
-cmd/terminal (command) - execute a command string on quicbot's server computer
-
-test - joke command
-
-yt/youtube - gives you the youtube link
-
-vote/poll (input) - start a voting poll
-
-cum (you, or user)- make specified user, or you, cum
-
-fathercheck[fatherc] (son, father) - check if args[1] is args[2]'s son
-
-admincheck[adminc] (specified user optional) - check if you, or entered name is a quicbot admin.
-
-coolcheck[coolc] (specified user optional) - check if you, or entered name is according to quic- bot/oys.
-
-shut - joke, but not really
-
-bless[bles] (user) - bless someone
-
-coinflip[coinf]/cf - flip a coinf
-
-howtodupe[howtod]/htd (server) - get a tutorial on how to dupe in a server (indexed 0b0t, 5b5t, 6b6t)
-
-mama - joke command
-
-meow (optional user) - make you, or someone else meow
-
-hack/heck (user) - hack someone
-
--- sus
-
-e--sex {esex} (user) - have e-sex with someone
-
-kiss (user) - kiss specified user
-
-date (user) - date specified user
-
-fuck (user) - fuck specified user
-
-sex (user) - have normal sex with someone
-
-rape (user) - rape someone
-
-pp/dick/penis/cock (you, or specified user) - check pp size
-
-uwu - romantic joke command
-
--- end of sus
-
-freerobux - joke command
-
-think (optional user) - guess what you, or specified user is thinking about
-
-cry/makecry[makec] (user) - make someone cry.
-
-punch (user) - punch someone (with easteregg)
-
-country (you, or specified user) - make quicbot hack you to visit your house- AHEM NO i mean make quicbot guess from where you're from
-
-iq (optional user, will be you if not specified) - replies with target-user's iq.
-
-msg/whisper[whis]/message (user) (message) - /whispers user with specified message
-
-stfu (user) - make user stfu once for all!
-
-rntz - request by rntz on my discord, joke command
-
-racistcheck[racist] (user or you) - tells you if targetuser is racist
-
-math/calculate (math problem) - calculates math problem for you
-
-xanderdk/itemhack - joke commands
-
-wheat/weed/carrots[carrot] (user or you) - replies with go farm wheat/weed/carrots, targetuser
-
-extendpp[ext] (user, or you) - extends someones pp
-
-timer/settimer[sett]/setimer[seti] (time in secs) - set a timer.
-
-peek - peeked
-
---          ---         ----
-vary cool commands real 100%
---          ---         ----
-
-randomnumber[randomn] (decimals) (minnum) (largestnum) - generates a number; <decimals> <smallestnumber> <biggestnumber>
-
-guessnumber[guessn] (number) - a guessing number game. guess a number from 1-1000
-
-stats (you, or user) - check your guessn stats (score)
-
-iam (input) - save identity
-
-whoami - check who you are
-
-whois (user) - check who (user) is
-
-om/offlinemessage[offlinem] (user) (input) - sends a offline message to someone. REMINER THAT ALL OF THESE GAMES, SAVED IDENTITIES, AND OFFLINE MESSAGES ARE SAVED TO FILE.
-
-ignore (user) - block someone from sending you offline messages
-
-unignore (user) - unblock someone from sending you offline messages
-
-addurban[addu] (word) (definition) - saves this
-
-customurban[customu]/quicboturban[quicbotu] (word) - get a definition someone has indexed with (prefix)addurban[addu]
-
-joindate/firstseen[firsts] (you, or user) - replies with targetuser's joindate
-
-playtime (you, or user) - replies with targetuser's playtime
-
-savemessage[savem] (input) - save a message
-
-playmessage[playm] (user, or you) - play targetuser's message
-
-joincount[joinc]/joins (you, or user) - replies with how many time targetuser has joined 
-
-leaves[leave]/leavecount[leave] (you, or user) - replies with how many time targetuser has left
-
-joinmessage[joinm] (input) - greets you with input everytime you join
-
-removejoinmessage[removej] - removes joinmessage
-
-quote (user/all/blank for you) - user = a quote from that user, all = a random quote ANYONE has said, blank = a quote you've said
-
-firstwords[firstword] (you, or user) - replies with targetuser's firstwords
-
-lastwords[lastword] (you, or user) - replies with targetuser's lastwords
-
-messages/messagecount[messagec] (you, or user) - replies with targetuser's messagecount
-
-qotd - a command to get a random quote from an api, there are real quotes there
-
-lastseen[lasts]/seen (user) - tells you the last time quicbot saw targetuser
-
-uuid[uu] (player, or you) - get a players UUID
-
-dabup (user) {2: stats} - idk some shit requested
-
-diaper (you or user) - tells you if targetuser needs to change their diaper
-
-top/leader((s)board)[leader] guessnumber[g]/playtime[p]/joins[j]/leaves[l]/dabup[d]
-
-specifications[spec] - replies with computer specifications
-
-temp - cpu's temprature
-
-git - quicbot github
-
-version[[ve]/[v.]/[dev]] - replies with current quicbot version
-
-changelog - replies with changelog
-
-------------------------------------------
-
+    { command: "come", description: "comes to you" },
+    { command: "follow", description: "follows you (stop to stop)" },
+    { command: "stop", description: "stops bot from following you" },
+    { command: "cool", description: "font/text - transforms text to another style" },
+    { command: "worstping", description: "replies with the user that has the worst, highest, ping" },
+    { command: "bestping", description: "replies with the user that has the best, lowest, ping" },
+    { command: "ping", description: "(you, or specified user) - tells you your, or specified user's ping." },
+    { command: "pos" || "coords", description: "/[coord ]generates random, FAKE co-ordinates for the bot, basically a false position" },
+    { command: "sell", description: "(something) - sells (input) for $100-4500" },
+    { command: "buy", description: "(something) - buys (input) for $100-4500" },
+    { command: "asscode", description: "replies with 'username, you can put your tiny fingers up your giant ass.' this was a request on my discord server" },
+    { command: "jew", description: "(you, or specified user) - jew check. (I AM NO JEW-HATER I RESPECT EVERYONE EQUALLY (=))" },
+    { command: "hacks", description: "sends link and name of some hackclients" },
+    { command: "dox", description: "(you, or specified user) - takes specified user and hashes their name, to then generate a fake-ip string. basically this always gives the specified user the same FAKE IP." },
+    { command: "no", description: "replies with no" },
+    { command: "yes", description: "replies with yes" },
+    { command: "hello", description: "(greeting word), (username) -- ONE OF THE FIRST COMMANDS" },
+    { command: "gay", description: "(you, or specified user) - gayness in percentage (%)" },
+    { command: "autistic", description: "(you, or specified user) - autisticness in percentage (%)" },
+    { command: "nice", description: "(you, or specified user) - niceness in percentage (%)" },
+    { command: "black", description: "(you, or specified user) - blackness in percentage (%)" },
+    { command: "white", description: "(you, or specified user) - whiteness in percentage (%)" },
+    { command: "femboy" || "fem", description: "[fem] (you, or specified user) - femboyness in percentage (%)" },
+    { command: "trans", description: "(you, or specified user) - transness in percentage (%)" },
+    { command: "fag", description: "(you, or specified user) - faggotness in percentage (%)" },
+    { command: "cool", description: "(you, or specified user) - coolness in percentage (%)" },
+    { command: "silly", description: "(you, or specified user) - sillieness in percentage (%)" },
+    { command: "fat", description: "(you, or specified user) - fatness in percentage (%)" },
+    { command: "sillify", description: "[silli] (specified username) - make someone silly" },
+    { command: "kit" || "getkit", description: "(input) - get a kit with the name of (input)" },
+    { command: "createkit", description: "(input) - create a kit with the name of (input) -- i just came up with the idea that you could sync getkit with createkit lmao" },
+    { command: "roast" || "insult", description: "(you, or specified user) - roasts you" },
+    { command: "y/n", description: "replies with yes or no" },
+    { command: "ask" || "askgod" || "ask" || "8ball" || "eightball", description: "ask god a question." },
+    { command: "king", description: "[kin] joke command" },
+    { command: "leak", description: "leak some co-ordinates; example: (prefix)leak 512421 88252 the white house!!" },
+    { command: "rules", description: "rules on anarchy servers you MUST FOLLOW!!" },
+    { command: "report" || "rep", description: "[rep] reports user to quicbot moderation center, and the server owners." },
+    { command: "joke" || "dadjoke", description: "(dad)joke [dadj] get a funnie joke" },
+    { command: "ban", description: "bans a user 100% real working 1984!" },
+    { command: "kick", description: "kicks a user 100% real working 1986!" },
+    { command: "online", description: "replies with [online/max]" },
+    { command: "urban", description: "check a definition off the urbandic, can be serious, are a lot of funny things too" },
+    { command: "kill", description: "*dies* joke command" },
+    { command: "tps", description: "we dont need to talk about that.." },
+    { command: "rr" || "roulette", description: "[rou] play a game where you've got a 12,5% chance at loosing" },
+    { command: "lottery" || "lot", description: "[lot] play a lottery game, very rare to working" },
+    { command: "dice", description: "roll a sphere dice (dice)" },
+    { command: "say", description: "joke command - she is not a parrot." },
+    { command: "porn", description: "joke command - dont use" },
+    { command: "help", description: "command - description - (blank for random, specify possible)" },
+    { command: "bot", description: "joke command" },
+    { command: "ol", description: "joke command" },
+    { command: "fly", description: "joke command (you or player)" },
+    { command: "squidooby", description: "joke command, added from request" },
+    { command: "minion", description: "joke command" },
+    { command: "quicbot [bot's username]", description: "joke command" },
+    { command: "home", description: "teleport home (optional input)" },
+    { command: "sethome", description: "set a home, real 100% (optional input)" },
+    { command: "gamemode" || "gm", description: "change gamemode to specified name (input)" },
+    { command: "summon", description: "summon entity (input)" },
+    { command: "lobby", description: "teleport to lobby 100% REAL" },
+    { command: "op" || "operator", description: "[op] makes you, or specified user a server operator. TRY IT IF YOU DONT BELIEVE (you, or specified user)" },
+    { command: "give", description: "give specified user specified item (who, what)" },
+    { command: "tpa", description: "request a teleport request to specified user (username)" },
+    { command: "tpy", description: "accepts your tpa request (optional user)" },
+    { command: "tpn", description: "denies a teleport request" },
+    { command: "tph", description: "sends a request that you want to teleport the specified user to you (specified user)" },
+    { command: "infect", description: "infect someone with your autism (user)" },
+    { command: "locate" || "find", description: "locate a user quic quiccom 100% real working 2024! (user)" },
+    { command: "dupe", description: "duplicates specified item (input)" },
+    { command: "health" || "hunger", description: "replies with the bots health and hunger" },
+    { command: "mute", description: "mutes a user 100% working (user)" },
+    { command: "curse", description: "pranks user to using /kill, kinda meh (user)" },
+    { command: "teleport" || "tp", description: "teleports you to specified coords/player (coords or player)" },
+    { command: "back", description: "went back" },
+    { command: "execute" || "execution", description: "[execu] create a poll if you should kill someone. voite with /kill y/n!" },
+    { command: "suicide", description: "kill someone (you, or user)" },
+    { command: "cmd" || "terminal", description: "execute a command string on quicbot's server computer (command)" },
+    { command: "test", description: "joke command" },
+    { command: "youtube" || "yt", description: "gives you the youtube link" },
+    { command: "vote" || "poll", description: "start a voting poll (input)" },
+    { command: "cum", description: "make specified user, or you, cum (you, or user)" },
+    { command: "fathercheck" || "fatherc", description: "[fatherc] check if args[1] is args[2]'s son (son, father)" },
+    { command: "admincheck" || "adminc", description: "[adminc] check if you, or entered name is a quicbot admin. (specified user optional)" },
+    { command: "coolcheck" || "coolc", description: "[coolc] check if you, or entered name is according to quic- bot/oys. (specified user optional)" },
+    { command: "shut", description: "joke, but not really" },
+    { command: "bless", description: "[bles] bless someone (user)" },
+    { command: "coinflip" || "cf", description: "[coinf] flip a coinf" },
+    { command: "howtodupe" || "htd", description: "[howtod] get a tutorial on how to dupe in a server (indexed 0b0t, 5b5t, 6b6t) (server)" },
+    { command: "mama", description: "joke command" },
+    { command: "meow", description: "make you, or someone else meow (optional user)" },
+    { command: "hack" || "heck", description: "hack someone (user)" },
+    { command: "e-sex" || "esex", description: "have e-sex with someone (user)" },
+    { command: "kiss", description: "kiss specified user (user)" },
+    { command: "date", description: "date specified user (user)" },
+    { command: "fuck", description: "fuck specified user (user)" },
+    { command: "sex", description: "have normal sex with someone (user)" },
+    { command: "rape", description: "rape someone (user)" },
+    { command: "pp" || "dick" || "penis" || "cock", description: "check pp size (you, or specified user)" },
+    { command: "uwu", description: "romantic joke command" },
+    { command: "freerobux", description: "joke command" },
+    { command: "think", description: "guess what you, or specified user is thinking about (optional user)" },
+    { command: "cry" || "makecry", description: "[makec] make someone cry. (user)" },
+    { command: "punch", description: "punch someone (user)" },
+    { command: "country", description: "make quicbot hack you to visit your house- AHEM NO i mean make quicbot guess from where you're from (you, or specified user)" },
+    { command: "iq", description: "replies with target-user's iq. (optional user, will be you if not specified)" },
+    { command: "msg" || "whisper" || "message", description: "/[whis] /whispers user with specified message (user) (message)" },
+    { command: "stfu", description: "make user stfu once for all! (user)" },
+    { command: "rntz", description: "request by rntz on my discord, joke command" },
+    { command: "racistcheck" || "racist", description: "[racist] tells you if targetuser is racist (user or you)" },
+    { command: "math" || "calculate" , description: "calculates math problem for you (math problem)" },
+    { command: "xanderdk" || "itemhack", description: "joke commands" },
+    { command: "wheat", description: "replies with go farm wheat, targetuser (user or you)" },
+    { command: "weed", description: "replies with go farm weed, targetuser (user or you)" },
+    { command: "carrot" || "carrots", description: "replies with go farm carrots, targetuser (user or you)" },
+    { command: "extendpp", description: "[ext] extends someones pp (user, or you)" },
+    { command: "timer" || "setimer" | "settimer", description: "[sett]/[seti] set a timer. (time in secs)" },
+    { command: "peek", description: "peeked" },
+    { command: "randomnumber", description: "[randomn] generates a number; <decimals> <smallestnumber> <biggestnumber> (decimals) (minnum) (largestnum)" },
+    { command: "guessnumber" || "guessn", description: "[guessn] a guessing number game. guess a number from 1-1000 (number)" },
+    { command: "stats", description: "check your guessn stats (score) (you, or user)" },
+    { command: "iam", description: "save identity (input)" },
+    { command: "whoami", description: "check who you are" },
+    { command: "whois", description: "check who (user) is (user)" },
+    { command: "om" || "offlinemessage" || "offlinesmg", description: "[offlinem] sends a offline message to someone. REMINER THAT ALL OF THESE GAMES, SAVED IDENTITIES, AND OFFLINE MESSAGES ARE SAVED TO FILE. (user) (input)" },
+    { command: "ignore", description: "block someone from sending you offline messages (user)" },
+    { command: "unignore", description: "unblock someone from sending you offline messages (user)" },
+    { command: "addurban", description: "[addu] saves this (word) (definition)" },
+    { command: "customurban" || "quicboturban", description: "[customu]/[quicbotu]get a definition someone has indexed with (prefix)addurban[addu] (word)" },
+    { command: "joindate" || "firstseen", description: "[firsts]replies with targetuser's joindate (you, or user)" },
+    { command: "playtime", description: "replies with targetuser's playtime (you, or user)" },
+    { command: "savemessage" || "savemsg", description: "[savem] save a message (input)" },
+    { command: "playmessage" || "playmsg", description: "[playm] play targetuser's message (user, or you)" },
+    { command: "joincount" || "joins", description: "[joinc] replies with how many time targetuser has joined (you, or user)" },
+    { command: "leaves" || "leavecount", description: "[leave] replies with how many time targetuser has left (you, or user)" },
+    { command: "joinmessage", description: "[joinm] greets you with input everytime you join (input)" },
+    { command: "removejoinmessage" || "remjm", description: "[removej] removes joinmessage" },
+    { command: "quote", description: "user = a quote from that user, all = a random quote ANYONE has said, blank = a quote you've said (user/all/blank for you)" },
+    { command: "firstwords", description: "[firstword] replies with targetuser's firstwords (you, or user)" },
+    { command: "lastwords", description: "[lastword]replies with targetuser's lastwords (you, or user)" },
+    { command: "messages" || "messagecount", description: "[messagec] replies with targetuser's messagecount (you, or user)" },
+    { command: "qotd", description: "a command to get a random quote from an api, there are real quotes there" },
+    { command: "lastseen" || "seen", description: "[lasts] tells you the last time quicbot saw targetuser (user)" },
+    { command: "uuid", description: "[uu] get a players UUID (player, or you)" },
+    { command: "dabup", description: "idk some shit requested (user) {2: stats}" },
+    { command: "diaper", description: "tells you if targetuser needs to change their diaper (you or user)" },
+    { command: "top"|| "leader", description: "[leader] guessnumber[g]/playtime[p]/joins[j]/leaves[l]/dabup[d]" },
+    { command: "specifications" || "specs", description: "[spec] replies with computer specifications" },
+    { command: "temp" || "temprature", description: "cpu's temprature" },
+    { command: "version[[ve]/[v.]/[dev]]", description: "replies with current quicbot version" },
+    { command: "changelog", description: "replies with changelog" },
+    { command: "rntzcouk", description: "added suggestion" },
+    { command: "christmas", description: "time till christmas" },
+    { command: "addfaq", description: "add a faq (enter faq)" },
+    { command: "faq", description: "faq (number or optinal) gives you faq" },
+    { command: "fight", description: "fight you or target (you or specifed user)" },
+    { command: "peak", description: "player peak (year, month, week, day)" },
+    { command: "uptime", description: "bot's uptime" },
+    { command: "nword", description: "check how many times someone has said the nword (you or user)" },
+    { command: "swear", description: "replies with how many times targetuser has sweared (you or user)" }
+----------------------------------
 +  a few admin commands
